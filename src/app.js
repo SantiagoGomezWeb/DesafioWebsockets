@@ -23,6 +23,7 @@ app.use('/api/products', routerP)
 app.use('/api/carts', routerC)
 app.use('/', routerV);
 
+
 const httpServer = app.listen(PORT, () => {
     try {
         console.log(`Listening to the port ${PORT}`);

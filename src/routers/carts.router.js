@@ -26,6 +26,7 @@ routerC.get('/:cid', async (request, response) => {
 })
 
 
+
 routerC.post('/', async (request, response) => {
     try {
         const products = request.body
