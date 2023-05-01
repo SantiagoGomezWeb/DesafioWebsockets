@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Vino Malbec",
+    "description": "Terraza de los Andes",
+    "price": 7800,
+    "code": "1234",
+    "stock": 20,
+    "id": 1,
+    "status": true,
+    "category": "Cava",
+    "thumbnails": [
+      "empty"
+    ]
+  },
+  {
+    "title": "Cerveza IPA",
+    "description": "Cerveza IPA Imperial",
+    "price": 800,
+    "code": "4567",
+    "stock": 100,
+    "id": 2,
+    "status": true,
+    "category": "Cava",
+    "thumbnails": [
+      "empty"
+    ]
+  },
+  {
+    "title": "Mani",
+    "description": "Mani pelado salado",
+    "price": 250,
+    "code": "432",
+    "stock": 100,
+    "id": 3,
+    "status": true,
+    "category": "Snacks",
+    "thumbnails": [
+      "empty"
+    ]
+  },
+  {
+    "title": "Papas Fritas",
+    "description": "Peguamar",
+    "price": 790,
+    "code": "7345",
+    "stock": 500,
+    "id": 4,
+    "status": true,
+    "category": "Snacks",
+    "thumbnails": [
+      "empty"
+    ]
+  },
+  {
+    "title": "asdasd",
+    "description": "asdasdad",
+    "price": 1,
+    "code": "12313",
+    "stock": 1,
+    "status": true,
+    "category": "cava",
+    "thumbnails": [
+      "empty"
+    ],
+    "id": 5
+  }
+]
